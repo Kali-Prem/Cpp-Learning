@@ -1,3 +1,4 @@
+//Child inherit from Parent and Parent inherit from grandParent
 #include<iostream>
 using namespace std;
 
